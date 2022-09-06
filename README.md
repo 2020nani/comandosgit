@@ -24,4 +24,4 @@ git branch -D nome da branch local a ser deletada
 puxar alteraçoes do repo remoto para repo local
 git pull <branch remoto> <branch local>
 
-erro aqui
+esta e a branch main
