@@ -15,7 +15,5 @@ git checkout HEAD -- <nome do arquivo que voltara estado original da branch>
 
 git fetch  puxa as alteraçoes realizadass no repo remoto
 
-teste 2
-
 git push origin :<nome branch,tag... a ser deletada remoto>
 git branch -D <nome da branch local a ser deletada>
