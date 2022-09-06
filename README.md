@@ -5,3 +5,8 @@ git reset --mixed <cod commit> retorna para o commit escolhido porem mantem as a
 git reset --hard <cod commit> retorna para o commit escolhido e apaga todas as alteraçoes feitas apos este commit
 
 comando
+git diff  mostra o que realmente foi alterado no repo local
+git diff --name-only mostra o nome dos arquivos que foram modificados
+git diff <nome do arquivo escolhido>
+
+git checkout HEAD -- <nome do arquivo que voltara estado original da branch>
