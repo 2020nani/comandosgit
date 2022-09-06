@@ -1,1 +1,2 @@
 # comandosgit
+comando reverter alteraçoes
