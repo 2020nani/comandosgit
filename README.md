@@ -16,4 +16,3 @@ git checkout HEAD -- <nome do arquivo que voltara estado original da branch>
 git fetch  puxa as alteraçoes realizadass no repo remoto
 
 teste 2
-
